@@ -1,5 +1,5 @@
 function add(a: number, b: number): number {
-    return a + b;   // merge confit heheh
+    return a + b; // i have added this comment here
 }
 
 function subtract(a: number, b: number): number {
